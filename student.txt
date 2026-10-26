@@ -1,0 +1,4 @@
+Name: Sumeet Singh Thakur
+USN: 4IK25CS214
+Subject: DevOps
+Experiment: Git Operations
